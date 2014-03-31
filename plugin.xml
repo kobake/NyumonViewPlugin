@@ -15,6 +15,14 @@
             class="nyumonviewplugin.views.SampleView"
             id="nyumonviewplugin.views.SampleView">
       </view>
+      <view
+            category="NyumonViewPlugin"
+            class="nyumonviewplugin.views.ButtonView"
+            icon="icons/hiyoko.gif"
+            id="NyumonViewPlugin.ButtonView"
+            name="ぼたんビュー"
+            restorable="true">
+      </view>
    </extension>
    <extension
          point="org.eclipse.help.contexts">
